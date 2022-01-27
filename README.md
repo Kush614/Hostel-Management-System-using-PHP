@@ -32,6 +32,8 @@ Student Registration
 
 100% Responsive
 
+![image](https://user-images.githubusercontent.com/67098940/151307105-67ee25f9-136e-4fd6-8daa-09d038b81ae1.png)
+
 
 
 
