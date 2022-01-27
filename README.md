@@ -5,14 +5,25 @@ This project is programmed using PHP and MySQL is the database used. The project
 Features of the Project
 
 Administrator’s Dashboard
+
 User’s Dashboard
+
 Profile for Admin and Users
+
 Manage Students
+
 Manage Rooms
+
 Room Details
+
 Manage Courses
+
 Change Password
+
 Hostel Booking
+
 Access Log
+
 Student Registration
+
 100% Responsive
